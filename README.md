@@ -8,10 +8,10 @@ I'm a Master of Computer Science student at the University of Illinois Urbana-Ch
 💻 Tech I use: Python, Java, REST APIs, Git, Docker, LLMs, and more  
 📚 Always learning about distributed systems and open-source collaboration  
 🌍 Advocate for tech education and accessibility through TCS goIT  
-📫 How to reach me: leah.operana@gmail.com
-💬 Ask me about: my spreadsheet of best coffeeshops in Chicago (even though I'm not a coffee drinker)
-⚡ Fun fact: I ran my first half marathon in 2025!
-💗 Loves: my long-haired dachshund Theo, crocheting, pilates, arts and crafts
+📫 How to reach me: leah.operana@gmail.com  
+💬 Ask me about: my spreadsheet of best coffeeshops in Chicago (even though I'm not a coffee drinker)  
+⚡ Fun fact: I ran my first half marathon in 2025!  
+💗 Loves: my long-haired dachshund Theo, crocheting, pilates, arts and crafts  
 
 <!--
 **operana/operana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
