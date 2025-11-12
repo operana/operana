@@ -1,4 +1,17 @@
-## Hi there 👋
+### Hi, I'm Leah (pronounced "Lay-Uh") 👋  
+I'm a Master of Computer Science student at the University of Illinois Urbana-Champaign, passionate about software engineering, AI, and community-driven innovation.  
+
+🌱 Currently building:  
+- 🐶 **Theo’s World** — A Python + Pygame adventure game  
+- 🤖 **mini-SWE-Agent** — An LLM-powered debugging agent for SWE-bench
+
+💻 Tech I use: Python, Java, REST APIs, Git, Docker, LLMs, and more  
+📚 Always learning about distributed systems and open-source collaboration  
+🌍 Advocate for tech education and accessibility through TCS goIT  
+
+📫 How to reach me: leah.operana@gmail.com
+💬 Ask me about: my long-haired dachshund Theo, crocheting, my spreadsheet of best coffeeshops in Chicago (even though I'm not a coffee drinker)
+⚡ Fun fact: I ran my first half marathon in 2025!
 
 <!--
 **operana/operana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
